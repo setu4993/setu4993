@@ -1,6 +1,6 @@
-# Hello 👋🏽!
+# Hello 👋!
 
-I am research scientist interested in applying natural language processing and artificial intelligence to challenging problems that can have an impact.
+I am a research scientist interested in applying natural language processing and artificial intelligence to challenging problems that can have an impact.
 
 Some of my work:
 
